@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Virani-Aman
 - 👀 I’m interested in Learning New programming languages
-- 🌱 I’m currently learning Back-End Web Development
+- 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me viranipaman@gmail.com
 
